@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+	<Module Name="StyleLibrary" Path="StyleLibrary" Url="Style Library">
+		<File Path="ContentOrganizerLink.js" Url="Schaeflein/js/ContentOrganizerLink.js" Type="GhostableInLibrary"/>
+		<File Path="mv-sod.js" Url="Mavention/js/mv-sod.js" Type="GhostableInLibrary"/>
+		<File Path="logo16.png" Url="Schaeflein/images/logo16.png" />
+	</Module>
+</Elements>

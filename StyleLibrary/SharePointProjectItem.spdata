@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="StyleLibrary\" Type="ElementManifest" />
+    <ProjectItemFile Source="ContentOrganizerLink.js" Target="StyleLibrary\" Type="ElementFile" />
+    <ProjectItemFile Source="mv-sod.js" Target="StyleLibrary\" Type="ElementFile" />
+    <ProjectItemFile Source="logo16.png" Target="StyleLibrary\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+	<webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+		<metaData>
+			<type name="$SharePoint.Type.a0831bcc-7336-4927-bb15-1a3dadd1332f.FullName$, $SharePoint.Project.AssemblyFullName$" />
+			<importErrorMessage>Cannot import this web part.</importErrorMessage>
+		</metaData>
+		<data>
+			<properties>
+				<property name="Title" type="string">Content Organizer Link</property>
+				<property name="Description" type="string">Opens a dialog with the upload page of the Drop Off Library, if configured. Created by Schaeflein Consulting. http://www.schaeflein.net/</property>
+				<property name="CatalogIconImageUrl" type="string">../Style Library/Schaeflein/images/logo16.png</property>
+				<property name="TitleIconImageUrl" type="string">../Style Library/Schaeflein/images/logo16.png</property>      
+			</properties>
+		</data>
+	</webPart>
+</webParts>
